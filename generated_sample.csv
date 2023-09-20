@@ -1,0 +1,4 @@
+City,Gym_1,Website_1,Subscription_1,Availability_1,Gym_2,Website_2,Subscription_2,Availability_2,Gym_3,Website_3,Subscription_3,Availability_3,Gym_4,Website_4,Subscription_4,Availability_4
+Chicago,Super Fitness,www.superfitness.com,$30/month,Closed,Gym Plus,www.gymplus.com,$50/month,Open,Body Works,www.bodyworks.com,$45/month,Open,,,,
+Los Angeles,Gym 2,www.gym2.com,$25/month,Open,Healthy Gym,www.healthygym.com,$35/month,Closed,Peak Fitness,www.peakfitness.com,$55/month,Closed,,,,
+New York,Gym 1,www.gym1.com,$20/month,Open,Future Workout,www.futureworkout.com,$40/month,Open,Endurance Gym,www.endurancegym.com,$60/month,Open,Fit Forever,www.fitforever.com,$70/month,Open
