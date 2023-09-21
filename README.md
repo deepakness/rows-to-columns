@@ -56,4 +56,6 @@ python app.py
 
 And after the execution completes, you will have the **rearranged CSV file** in the same folder.
 
+> You can also [check out this detailed blog post](https://untalkedseo.com/rows-to-columns/) that explains everything.
+
 Note that it may take a lot of time depending upon how big your input CSV file is and also your computer's processing power.
